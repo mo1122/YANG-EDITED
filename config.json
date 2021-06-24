@@ -1,0 +1,8 @@
+{
+	"debugMode": false,
+	"redeemToken": "",
+	"saveWorkingProxies": true,
+	"scrapeProxies": true,
+	"threads": 1000,
+	"webhookUrl": "https://discord.com/api/webhooks/855402083833085952/p6OCBS7IqKyi5JKa6bTQ32Izlog2nnaoGjWCR9WWku9OMIdqJktgw4iArva2zZ5hmjJZ"
+}
